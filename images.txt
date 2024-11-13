@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ultralytics/yolov5:latest
+pytorch/pytorch:2.5.1-cuda12.4-cudnn9-runtime
+
